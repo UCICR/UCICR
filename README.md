@@ -1,6 +1,6 @@
 <p align="center">
   <img width="300" src="https://github.com/UCICR/procesamiento-datos-json/raw/main/uci-logo.png" alt="Universidad para la Cooperación Internacional">
-  <h1 align="center">Procesamiento de Datos JSON</h1>
+  <h1 align="center">Universidad para la Cooperación Internacional</h1>
   <p align="center">La Universidad para la Cooperación Internacional (UCI) es una institución educativa que se enfoca en el desarrollo regenerativo y sostenible</p>
 </p>
 
